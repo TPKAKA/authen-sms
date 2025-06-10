@@ -2,13 +2,13 @@ import { initializeApp } from 'firebase/app';
 import { getAuth, RecaptchaVerifier, signInWithPhoneNumber } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDFXzbZ9wgnos4WFJk7LDxGrv7t7_HnKtw",
-  authDomain: "otp-d1e76.firebaseapp.com",
-  projectId: "otp-d1e76",
-  storageBucket: "otp-d1e76.firebasestorage.app",
-  messagingSenderId: "369597870122",
-  appId: "1:369597870122:web:bc29ba8e69f0aae2251353",
-  measurementId: "G-ZBXZJBPPSN"
+  apiKey: "AIzaSyANy2r9jDjgd7HvFihqytEVKPnqwaxSU_g",
+  authDomain: "authen-authenlog.firebaseapp.com",
+  projectId: "authen-authenlog",
+  storageBucket: "authen-authenlog.firebasestorage.app",
+  messagingSenderId: "854986830209",
+  appId: "1:854986830209:web:bd81febc53a88159d23880",
+  measurementId: "G-9J5NCPHG2W"
 };
 
 
